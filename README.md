@@ -14,3 +14,7 @@ STEPS:
  
  4 Install FLASK
 
+ 5 Download the Soure Code
+
+ 6 Run the Application
+
